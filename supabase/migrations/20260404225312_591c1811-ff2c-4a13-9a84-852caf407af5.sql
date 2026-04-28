@@ -1,0 +1,1 @@
+ALTER TABLE public.patient_conditions ADD COLUMN cie10_code text;

@@ -1,0 +1,1 @@
+ALTER TABLE public.clinical_documents ADD COLUMN read_by_patient boolean NOT NULL DEFAULT false;
